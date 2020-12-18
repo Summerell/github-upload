@@ -1,0 +1,2131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VirtualDJ_Database Version="8.5">
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Laugh.vdjsample" FileSize="34984">
+  <Tags Bpm="0.626939" Flag="1" />
+  <Infos SongLength="2.481066" FirstSeen="1596964013" Bitrate="113" Cover="1" />
+  <Scan Version="801" Bpm="0.626939" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Siren.vdjsample" FileSize="331329">
+  <Tags Bpm="0.542857" Flag="1" />
+  <Infos SongLength="17.371429" FirstSeen="1596964013" Bitrate="153" Cover="1" />
+  <Scan Version="801" Bpm="0.542857" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Air Horn.vdjsample" FileSize="128221">
+  <Tags Bpm="0.651587" Flag="1" />
+  <Infos SongLength="6.580862" FirstSeen="1596964013" Bitrate="156" Cover="1" />
+  <Scan Version="801" Bpm="0.651587" />
+  <Poi Pos="0.623464" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Applause.vdjsample" FileSize="221779">
+  <Tags Bpm="0.549955" Flag="1" />
+  <Infos SongLength="15.281633" FirstSeen="1596964013" Bitrate="116" Cover="1" />
+  <Scan Version="801" Bpm="0.549955" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Explosion.vdjsample" FileSize="45932">
+  <Tags Bpm="0.375516" Flag="1" />
+  <Infos SongLength="3.004127" FirstSeen="1596964013" Bitrate="122" Cover="1" />
+  <Scan Version="801" Bpm="0.375516" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\voice\voice.mp3" FileSize="1551783">
+  <Tags Year="2020" Flag="1" />
+  <Infos SongLength="64.0" FirstSeen="1596990935" Cover="2" />
+  <Comment>Recorded using VirtualDJ on 2020-08-09</Comment>
+  <Poi Name="JKD STAY FREE - Free Lofi Hip Hop Drum Loop #9" Num="1" Type="cue" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (3).vdjsample" FileSize="4626" Flag="64">
+  <Tags Flag="1" />
+  <Infos FirstSeen="1597052335" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>                           
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic.vdjsample" FileSize="45490841">
+  <Tags Flag="1" />
+  <Infos FirstSeen="1597052330" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>                                                          
+ <Song FilePath="C:\Users\summe\OneDrive\Bureau\voice.mp3" FileSize="193207">
+  <Tags Year="2020" Flag="1" />
+  <Infos SongLength="7.0" FirstSeen="1596988922" Bitrate="221" Cover="16386" />
+  <Comment>Recorded using VirtualDJ on 2020-08-09</Comment>
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (6).vdjsample" FileSize="353495">
+  <Tags Flag="1" />
+  <Infos SongLength="32.430667" FirstSeen="1597121516" Bitrate="192" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>                                
+ <Song FilePath="C:\Users\summe\Videos\2020-08-04 03-54-40.mp4" FileSize="349445961" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="901.7340" FirstSeen="1596965325" Bitrate="3100" Cover="2" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Videos\2020-08-04 06-29-04.mp4" FileSize="317022309" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="1299.2840" FirstSeen="1596965325" Bitrate="1952" Cover="34" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (4).vdjsample" FileSize="41339" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="0.130" FirstSeen="1597052335" Bitrate="2544" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-01.vdjsample" FileSize="244449">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\OOSH.vdjsample" FileSize="30855">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>   
+ <Song FilePath="C:\Users\summe\Downloads\emc2-francia-1976-de-teddy-lasry.mp3" FileSize="63385836">
+  <Tags Author="Nicols Guzmn" Title="E=MC (Francia, 1976) de Teddy Lasry" Year="20150410" Flag="1" />
+  <Infos SongLength="2167.171313" FirstSeen="1596965325" FirstPlay="1596965430" LastPlay="1597207384" PlayCount="7" Bitrate="234" Cover="34" />
+  <Scan Version="801" Bpm="0.870884" AltBpm="0.653401" Volume="0.437090" Key="C" Flag="32768" />
+  <Poi Pos="0.187710" Type="beatgrid" Bpm="60.978985" />
+  <Poi Pos="22.877686" Type="beatgrid" Bpm="129.303391" />
+  <Poi Pos="182.957245" Type="beatgrid" Bpm="134.673630" />
+  <Poi Pos="389.976837" Type="beatgrid" Bpm="66.194679" />
+  <Poi Pos="474.131012" Type="beatgrid" Bpm="131.188187" />
+  <Poi Pos="638.482056" Type="beatgrid" Bpm="135.130997" />
+  <Poi Pos="735.777588" Type="beatgrid" Bpm="172.952469" />
+  <Poi Pos="939.085449" Type="beatgrid" Bpm="77.212646" />
+  <Poi Pos="1078.359009" Type="beatgrid" Bpm="122.684593" />
+  <Poi Pos="1326.843018" Type="beatgrid" Bpm="112.725258" />
+  <Poi Pos="1362.352661" Type="beatgrid" Bpm="147.817093" />
+  <Poi Pos="1594.890991" Type="beatgrid" Bpm="106.388969" />
+  <Poi Pos="1617.247437" Type="beatgrid" Bpm="159.119614" />
+  <Poi Pos="1724.740723" Type="beatgrid" Bpm="141.546524" />
+  <Poi Pos="1952.290283" Type="beatgrid" Bpm="68.474716" />
+  <Poi Pos="1980.378906" Type="beatgrid" Bpm="69.102402" />
+  <Poi Pos="2091.393311" Type="beatgrid" Bpm="73.306549" />
+  <Poi Pos="0.133333" Type="automix" Point="realStart" />
+  <Poi Pos="2164.209333" Type="automix" Point="realEnd" />
+  <Poi Pos="1.750" Type="automix" Point="fadeStart" />
+  <Poi Pos="2158.50" Type="automix" Point="fadeEnd" />
+  <Poi Pos="417.119637" Type="automix" Point="cutStart" />
+  <Poi Pos="2087.913651" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="507.972063" Type="remix" />
+  <Poi Name="End Break 1" Pos="1964.554014" Type="remix" />
+  <Poi Pos="9.872968" Num="2" Type="cue" />
+  <Poi Pos="0.280" Num="1" Type="cue" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\piotr-figiel-ensemble-niewiernej-dziewczynie.mp3" FileSize="5040216">
+  <Tags Author="Ricardo Maraa" Title="Piotr Figiel Ensemble - Niewiernej Dziewczynie" Year="20160319" Flag="1" />
+  <Infos SongLength="163.776979" FirstSeen="1596965325" FirstPlay="1596966168" LastPlay="1596993861" PlayCount="3" Bitrate="246" Cover="34" />
+  <Scan Version="801" Bpm="0.531791" AltBpm="0.740317" Volume="0.581342" Key="Dm" Flag="32768" />
+  <Poi Pos="22.079184" Type="beatgrid" />
+  <Poi Pos="1.7280" Type="automix" Point="realStart" />
+  <Poi Pos="163.2080" Type="automix" Point="realEnd" />
+  <Poi Pos="7.90" Type="automix" Point="fadeStart" />
+  <Poi Pos="159.350" Type="automix" Point="fadeEnd" />
+  <Poi Pos="31.650975" Type="automix" Point="cutStart" />
+  <Poi Pos="157.221587" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\rino-de-filippi-iconoteca.mp3" FileSize="6572549">
+  <Tags Author="Ricardo Maraa" Title="Rino de Filippi - Iconoteca" Year="20160729" Flag="1" />
+  <Infos SongLength="215.696667" FirstSeen="1596965325" FirstPlay="1596966473" LastPlay="1596991924" PlayCount="4" Bitrate="244" Cover="34" />
+  <Scan Version="801" Bpm="0.488333" AltBpm="0.732653" Volume="0.758815" Key="Dm" Flag="32768" />
+  <Poi Pos="19.481405" Type="beatgrid" />
+  <Poi Pos="1.70" Type="automix" Point="realStart" />
+  <Poi Pos="215.640" Type="automix" Point="realEnd" />
+  <Poi Pos="1.90" Type="automix" Point="fadeStart" />
+  <Poi Pos="211.150" Type="automix" Point="fadeEnd" />
+  <Poi Pos="44.875465" Type="automix" Point="cutStart" />
+  <Poi Pos="211.057778" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\orchestra-delle-haensch-incontri.mp3" FileSize="6132948">
+  <Tags Author="Ricardo Maraa" Title="Orchestra Delle Haensch - Incontri" Year="20161121" Flag="1" />
+  <Infos SongLength="196.575042" FirstSeen="1596965325" Bitrate="250" Cover="34" />
+  <Scan Version="801" Bpm="0.595510" AltBpm="0.891179" Volume="0.637780" Key="G" Flag="32768" />
+  <Poi Pos="2.020" Type="beatgrid" />
+  <Poi Pos="1.790667" Type="automix" Point="realStart" />
+  <Poi Pos="196.518667" Type="automix" Point="realEnd" />
+  <Poi Pos="3.450" Type="automix" Point="fadeStart" />
+  <Poi Pos="191.40" Type="automix" Point="fadeEnd" />
+  <Poi Pos="49.636440" Type="automix" Point="tempoStart" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Bureau\voice (1).mp3" FileSize="944279">
+  <Tags Year="2020" Flag="1" />
+  <Infos SongLength="39.0" FirstSeen="1596988973" Bitrate="194" Cover="16386" />
+  <Comment>Recorded using VirtualDJ on 2020-08-09</Comment>
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\176-bpm-44-time-simple-straight-drum-beat-for-training-musical-instrument.mp3" FileSize="27586925">
+  <Tags Author="musical instrument practice" Title="176 BPM 4/4 TIME SIMPLE STRAIGHT DRUM BEAT FOR TRAINING MUSICAL INSTRUMENT / " TrackNumber="176" Year="20190408" Flag="1" />
+  <Infos SongLength="1200.060208" FirstSeen="1596990048" FirstPlay="1596990114" LastPlay="1596990114" PlayCount="1" Bitrate="184" Cover="34" />
+  <Scan Version="801" Bpm="0.340907" AltBpm="0.511361" Volume="1.087377" Key="Eb" Flag="32768" />
+  <Poi Pos="1.460476" Type="beatgrid" />
+  <Poi Pos="1.454667" Type="automix" Point="realStart" />
+  <Poi Pos="1199.877333" Type="automix" Point="realEnd" />
+  <Poi Pos="1.454667" Type="automix" Point="fadeStart" />
+  <Poi Pos="1199.050" Type="automix" Point="fadeEnd" />
+  <Poi Pos="1.457778" Type="automix" Point="cutStart" />
+  <Poi Pos="1199.061043" Type="automix" Point="cutEnd" />
+  <Poi Pos="1.798549" Type="automix" Point="tempoStart" />
+  <Poi Pos="1187.479909" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\free-lofi-hip-hop-drum-loop-9.mp3" FileSize="13883833">
+  <Tags Author="JKD STAY FREE" Title="Free Lofi Hip Hop Drum Loop #9" Year="20190908" Flag="1" />
+  <Infos SongLength="662.836825" FirstSeen="1596990194" FirstPlay="1596990245" LastPlay="1596993724" PlayCount="3" Bitrate="168" Cover="34" />
+  <Scan Version="801" Bpm="0.689660" AltBpm="0.517234" Volume="0.840071" Key="A" Flag="32768" />
+  <Poi Pos="11.118821" Type="beatgrid" />
+  <Poi Pos="0.074014" Type="automix" Point="realStart" />
+  <Poi Pos="662.135873" Type="automix" Point="realEnd" />
+  <Poi Pos="11.10" Type="automix" Point="fadeStart" />
+  <Poi Pos="662.0" Type="automix" Point="fadeEnd" />
+  <Poi Pos="11.120181" Type="automix" Point="cutStart" />
+  <Poi Pos="661.120" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\20200809091313_55f7b43a-c5a3-451c-9330-43ee50a74eee.mp3" FileSize="8139847">
+  <Tags Author="guregoripetuku" Year="20140730" Flag="1" />
+  <Infos SongLength="258.537479" FirstSeen="1596965325" FirstPlay="1596990392" LastPlay="1597037047" PlayCount="2" Bitrate="252" Cover="34" />
+  <Scan Version="801" Bpm="0.452438" AltBpm="0.680045" Volume="0.956283" Key="F" Flag="32768" />
+  <Poi Pos="43.689457" Type="beatgrid" />
+  <Poi Pos="0.934667" Type="automix" Point="realStart" />
+  <Poi Pos="257.3480" Type="automix" Point="realEnd" />
+  <Poi Pos="1.0" Type="automix" Point="fadeStart" />
+  <Poi Pos="256.20" Type="automix" Point="fadeEnd" />
+  <Poi Pos="48.772063" Type="automix" Point="cutStart" />
+  <Poi Pos="238.836825" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="85.775964" Type="remix" />
+  <Poi Name="End Break 1" Pos="107.510567" Type="remix" />
+  <Poi Name="Break 2" Pos="162.668844" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (2).vdjsample" FileSize="167281" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="1.550" FirstSeen="1597052335" Bitrate="863" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-10.vdjsample" FileSize="231886">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>                       
+ <Song FilePath="C:\Users\summe\Downloads\free-lo-fi-trap-drum-loop.mp3" FileSize="4501669">
+  <Tags Author="JKD STAY FREE" Title="FREE LO FI TRAP DRUM LOOP" Year="20180707" Flag="1" />
+  <Infos SongLength="188.250687" FirstSeen="1596991789" Bitrate="191" Cover="34" />
+  <Scan Version="801" Bpm="0.588231" AltBpm="0.735283" Volume="0.300802" Key="Am" Flag="32768" />
+  <Poi Pos="0.042041" Type="beatgrid" />
+  <Poi Pos="0.037333" Type="automix" Point="realStart" />
+  <Poi Pos="169.410667" Type="automix" Point="realEnd" />
+  <Poi Pos="0.037333" Type="automix" Point="fadeStart" />
+  <Poi Pos="169.150" Type="automix" Point="fadeEnd" />
+  <Poi Pos="2.687710" Type="automix" Point="cutStart" />
+  <Poi Pos="167.099501" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="72.982494" Type="remix" />
+  <Poi Name="End Break 1" Pos="94.159093" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\boom-bap-rap-beat-hip-hop-instrumental-90s.mp3" FileSize="5706207">
+  <Tags Author="Jiem EB Music" Title="BOOM BAP RAP BEAT HIP HOP INSTRUMENTAL - &quot;90&apos;s&quot;" Year="20190904" Flag="1" />
+  <Infos SongLength="196.9930" FirstSeen="1596991789" FirstPlay="1597207843" LastPlay="1597207843" PlayCount="1" Bitrate="231" Cover="34" />
+  <Scan Version="801" Bpm="0.750" AltBpm="0.562494" Volume="0.795369" Key="Eb" Flag="32768" />
+  <Poi Pos="24.204082" Type="beatgrid" />
+  <Poi Pos="2.6160" Type="automix" Point="realStart" />
+  <Poi Pos="191.737333" Type="automix" Point="realEnd" />
+  <Poi Pos="12.650" Type="automix" Point="fadeStart" />
+  <Poi Pos="183.950" Type="automix" Point="fadeEnd" />
+  <Poi Pos="24.202449" Type="automix" Point="cutStart" />
+  <Poi Pos="168.206803" Type="automix" Point="cutEnd" />
+ </Song>                                                                               
+ <Song FilePath="C:\Users\summe\Downloads\free-lofi-hip-hop-drum-loop-9 (1).mp3" FileSize="13883833">
+  <Tags Author="JKD STAY FREE" Title="Free Lofi Hip Hop Drum Loop #9" Year="20190908" Flag="1" />
+  <Infos SongLength="662.836825" FirstSeen="1596991789" FirstPlay="1596992977" LastPlay="1596992977" PlayCount="1" Bitrate="168" Cover="34" />
+  <Scan Version="801" Bpm="0.689660" AltBpm="0.517234" Volume="0.840071" Key="A" Flag="32768" />
+  <Poi Pos="11.118821" Type="beatgrid" />
+  <Poi Pos="0.074014" Type="automix" Point="realStart" />
+  <Poi Pos="662.135873" Type="automix" Point="realEnd" />
+  <Poi Pos="11.10" Type="automix" Point="fadeStart" />
+  <Poi Pos="662.0" Type="automix" Point="fadeEnd" />
+  <Poi Pos="11.120181" Type="automix" Point="cutStart" />
+  <Poi Pos="661.120" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\echettio-ansia.mp3" FileSize="4165914">
+  <Tags Author="Ricardo Maraa" Title="Echettio - Ansia" Year="20151028" Flag="1" />
+  <Infos SongLength="135.518167" FirstSeen="1596965325" FirstPlay="1596967468" LastPlay="1597123963" PlayCount="3" Bitrate="246" Cover="34" />
+  <Scan Version="801" Bpm="0.742426" AltBpm="0.824286" Volume="0.427272" Key="D" Flag="32768" />
+  <Poi Pos="36.853584" Type="beatgrid" />
+  <Poi Pos="1.660" Type="automix" Point="realStart" />
+  <Poi Pos="135.470667" Type="automix" Point="realEnd" />
+  <Poi Pos="10.20" Type="automix" Point="fadeStart" />
+  <Poi Pos="133.750" Type="automix" Point="fadeEnd" />
+  <Poi Name="Saved Loop 1" Pos="5.062359" Num="-1" Type="loop" Size="4.0" Slot="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\[FREE] DEEP HOUSE DANCE CLUB TYPE BEAT TECHNO TRAP INSTRUMENTAL - COSMIC 2019 (BLUE ISLAND BEATS.mp3" FileSize="5210625">
+  <Tags Flag="1" />
+  <Infos SongLength="217.036916" FirstSeen="1597206753" FirstPlay="1597639249" LastPlay="1597771897" PlayCount="2" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.480" AltBpm="0.360" Volume="1.411829" Key="A#m" Flag="32768" />
+  <Poi Pos="0.074172" Type="beatgrid" />
+  <Poi Pos="0.068209" Type="automix" Point="realStart" />
+  <Poi Pos="215.751111" Type="automix" Point="realEnd" />
+  <Poi Pos="0.068209" Type="automix" Point="fadeStart" />
+  <Poi Pos="209.350" Type="automix" Point="fadeEnd" />
+  <Poi Pos="1.031837" Type="automix" Point="cutStart" />
+  <Poi Pos="208.394739" Type="automix" Point="cutEnd" />
+  <Poi Pos="1.991905" Type="automix" Point="tempoStart" />
+  <Poi Pos="190.152381" Type="automix" Point="tempoEnd" />
+ </Song>         
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (5).vdjsample" FileSize="40622" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="0.030" FirstSeen="1597052337" Bitrate="10833" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (1).vdjsample" FileSize="4320714" Flag="131136">
+  <Tags Bpm="0.50" Key="A" Flag="1" />
+  <Infos SongLength="40.9030" FirstSeen="1597052330" Bitrate="846" Cover="1" />
+  <Scan Version="801" Key="A" />
+  <Poi Type="beatgrid" />
+ </Song>                                                                                                                                                   
+ <Song FilePath="C:\Users\summe\Downloads\free-lofi-drum-loop-36.mp3" FileSize="3095339">
+  <Tags Author="JKD STAY FREE" Title="FREE LOFI DRUM LOOP #36" Year="20190429" Flag="1" />
+  <Infos SongLength="168.978125" FirstSeen="1596991789" FirstPlay="1596991875" LastPlay="1597106407" PlayCount="3" Bitrate="146" Cover="34" />
+  <Scan Version="801" Bpm="0.476190" AltBpm="0.714286" Volume="0.928329" Key="C#" Flag="32768" />
+  <Poi Pos="15.158708" Type="beatgrid" />
+  <Poi Pos="14.3920" Type="automix" Point="realStart" />
+  <Poi Pos="167.618667" Type="automix" Point="realEnd" />
+  <Poi Pos="15.30" Type="automix" Point="fadeStart" />
+  <Poi Pos="152.30" Type="automix" Point="fadeEnd" />
+  <Poi Pos="15.307029" Type="automix" Point="cutStart" />
+  <Poi Pos="151.348390" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="75.644807" Type="remix" />
+  <Poi Name="End Break 1" Pos="91.496780" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\free-hip-hop-drum-loop.mp3" FileSize="4910927">
+  <Tags Author="JKD STAY FREE" Title="Free Hip Hop Drum Loop" Year="20190508" Flag="1" />
+  <Infos SongLength="214.691701" FirstSeen="1596991789" FirstPlay="1596993403" LastPlay="1597035223" PlayCount="2" Bitrate="183" Cover="34" />
+  <Scan Version="801" Bpm="0.705873" AltBpm="0.529410" Volume="0.810945" Key="B" Flag="32768" />
+  <Poi Pos="0.069048" Type="beatgrid" />
+  <Poi Pos="0.065306" Type="automix" Point="realStart" />
+  <Poi Pos="199.983311" Type="automix" Point="realEnd" />
+  <Poi Pos="0.065306" Type="automix" Point="fadeStart" />
+  <Poi Pos="199.850" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.296054" Type="automix" Point="cutStart" />
+  <Poi Pos="199.479728" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Kllo - Bolide.mp3" FileSize="5675813">
+  <Tags Flag="1" />
+  <Infos SongLength="236.425578" FirstSeen="1597034097" FirstPlay="1597034161" LastPlay="1597107094" PlayCount="3" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.461553" AltBpm="0.692336" Volume="0.974136" Key="Fm" Flag="32768" />
+  <Poi Pos="53.648163" Type="beatgrid" />
+  <Poi Pos="0.092880" Type="automix" Point="realStart" />
+  <Poi Pos="233.974422" Type="automix" Point="realEnd" />
+  <Poi Pos="1.450" Type="automix" Point="fadeStart" />
+  <Poi Pos="231.050" Type="automix" Point="fadeEnd" />
+  <Poi Pos="53.183129" Type="automix" Point="cutStart" />
+  <Poi Pos="227.881361" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="126.619864" Type="remix" />
+  <Poi Name="End Break 1" Pos="171.344399" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Yellow Claw - DJ Turn It Up Bass Boosted HD.mp4" FileSize="9144112" Flag="64">
+  <Tags Flag="1" />
+  <Infos SongLength="212.114286" FirstSeen="1597034097" FirstPlay="1597034184" LastPlay="1597037241" PlayCount="2" Bitrate="342" Cover="16386" />
+  <Scan Version="801" Bpm="0.588186" AltBpm="0.441179" Volume="0.516396" Key="C#" Flag="32768" />
+  <Poi Pos="19.157257" Type="beatgrid" />
+  <Poi Pos="0.300408" Type="automix" Point="realStart" />
+  <Poi Pos="208.905578" Type="automix" Point="realEnd" />
+  <Poi Pos="19.150" Type="automix" Point="fadeStart" />
+  <Poi Pos="206.550" Type="automix" Point="fadeEnd" />
+  <Poi Pos="23.857778" Type="automix" Point="cutStart" />
+  <Poi Pos="206.492880" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\FREE Kids See Ghosts Type Beat - Motherless Child (directed by nayz prod. kujo &amp; nayz).mp3" FileSize="3903457">
+  <Tags Remix="directed by nayz prod. kujo &amp; nayz" Flag="1" />
+  <Infos SongLength="162.562902" FirstSeen="1597034097" FirstPlay="1597034279" LastPlay="1597106588" PlayCount="2" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.624989" AltBpm="0.937506" Volume="0.890895" Key="C#" Flag="32768" />
+  <Poi Pos="42.537643" Type="beatgrid" />
+  <Poi Pos="0.137868" Type="automix" Point="realStart" />
+  <Poi Pos="162.515011" Type="automix" Point="realEnd" />
+  <Poi Pos="0.20" Type="automix" Point="fadeStart" />
+  <Poi Pos="160.650" Type="automix" Point="fadeEnd" />
+  <Poi Pos="42.536054" Type="automix" Point="cutStart" />
+  <Poi Pos="151.575510" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-11.vdjsample" FileSize="188836">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S91.vdjsample" FileSize="252498">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>        
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-20.vdjsample" FileSize="190750">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>                                                                                                                            
+ <Song FilePath="C:\Users\summe\Downloads\[FREE] SKI MASK THE SLUMP GOD TYPE BEAT DROP (DRUM 3) (prod. ESKRY).mp3" FileSize="3287177">
+  <Tags Remix="FREE" Flag="1" />
+  <Infos SongLength="136.904853" FirstSeen="1597034097" FirstPlay="1597034592" LastPlay="1597106746" PlayCount="3" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.60" AltBpm="0.450011" Volume="1.259077" Key="F#m" Flag="32768" />
+  <Poi Pos="2.470227" Type="beatgrid" />
+  <Poi Pos="0.065306" Type="automix" Point="realStart" />
+  <Poi Pos="135.069025" Type="automix" Point="realEnd" />
+  <Poi Pos="0.065306" Type="automix" Point="fadeStart" />
+  <Poi Pos="133.150" Type="automix" Point="fadeEnd" />
+  <Poi Pos="20.768798" Type="automix" Point="cutStart" />
+  <Poi Pos="114.369161" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\(FREE) Joey Bada$$ X Denzel Curry Type Beat - Sidewalks.mp3" FileSize="3363036">
+  <Tags Flag="1" />
+  <Infos SongLength="140.062766" FirstSeen="1597034097" FirstPlay="1597052289" LastPlay="1597052289" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.714286" AltBpm="0.531565" Volume="0.929767" Key="E" Flag="32768" />
+  <Poi Pos="5.828594" Type="beatgrid" />
+  <Poi Pos="0.11610" Type="automix" Point="realStart" />
+  <Poi Pos="137.285079" Type="automix" Point="realEnd" />
+  <Poi Pos="0.11610" Type="automix" Point="fadeStart" />
+  <Poi Pos="136.650" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.118277" Type="automix" Point="cutStart" />
+  <Poi Pos="136.200272" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Saxo.vdjsample" FileSize="91603" Flag="131072">
+  <Tags Bpm="0.462313" Flag="1" />
+  <Infos SongLength="3.761633" FirstSeen="1597053331" Bitrate="195" Cover="1" />
+  <Scan Version="801" Bpm="0.462313" />
+  <Poi Pos="0.044019" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Hands Up.vdjsample" FileSize="45533" Flag="131072">
+  <Tags Bpm="0.468450" Flag="1" />
+  <Infos SongLength="1.876463" FirstSeen="1597053331" Bitrate="194" Cover="1" />
+  <Scan Version="801" Bpm="0.468450" />
+  <Poi Pos="0.009981" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\Shots Shots.vdjsample" FileSize="69800" Flag="131072">
+  <Tags Bpm="0.468685" Flag="1" />
+  <Infos SongLength="3.752925" FirstSeen="1597053331" Bitrate="149" Cover="1" />
+  <Scan Version="801" Bpm="0.468685" />
+  <Poi Pos="0.005170" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Audio\This This This.vdjsample" FileSize="46285" Flag="131072">
+  <Tags Bpm="0.460272" Flag="1" />
+  <Infos SongLength="1.880816" FirstSeen="1597053331" Bitrate="197" Cover="1" />
+  <Scan Version="801" Bpm="0.460272" />
+  <Poi Pos="0.053175" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Kick.vdjsample" FileSize="73377" Flag="131072">
+  <Tags Bpm="0.495868" Flag="1" />
+  <Infos SongLength="3.970612" FirstSeen="1597053333" Bitrate="148" Cover="1" />
+  <Scan Version="801" Bpm="0.495868" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\HiHat 1.vdjsample" FileSize="67992" Flag="131072">
+  <Tags Bpm="0.499998" Flag="1" />
+  <Infos SongLength="4.003991" FirstSeen="1597053333" Bitrate="136" Cover="1" />
+  <Scan Version="801" Bpm="0.499998" />
+  <Poi Pos="0.001973" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\HiHat 2.vdjsample" FileSize="42667" Flag="131072">
+  <Tags Bpm="0.460949" Flag="1" />
+  <Infos SongLength="3.690522" FirstSeen="1597053333" Bitrate="92" Cover="1" />
+  <Scan Version="801" Bpm="0.460949" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\HiHat 3.vdjsample" FileSize="47895" Flag="131072">
+  <Tags Bpm="0.413628" Flag="1" />
+  <Infos SongLength="3.313197" FirstSeen="1597053333" Bitrate="116" Cover="1" />
+  <Scan Version="801" Bpm="0.413628" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\HiHat 4.vdjsample" FileSize="64358" Flag="131072">
+  <Tags Bpm="0.461302" Flag="1" />
+  <Infos SongLength="3.693424" FirstSeen="1597053333" Bitrate="139" Cover="1" />
+  <Scan Version="801" Bpm="0.461302" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Synth 1.vdjsample" FileSize="36139" Flag="131072">
+  <Tags Bpm="0.428571" Flag="1" />
+  <Infos SongLength="1.718277" FirstSeen="1597053333" Bitrate="168" Cover="1" />
+  <Scan Version="801" Bpm="0.428571" />
+  <Poi Pos="0.005484" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Synth 2.vdjsample" FileSize="31878" Flag="131072">
+  <Tags Bpm="0.428571" Flag="1" />
+  <Infos SongLength="1.718277" FirstSeen="1597053333" Bitrate="148" Cover="1" />
+  <Scan Version="801" Bpm="0.428571" />
+  <Poi Pos="0.007256" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Synth 3.vdjsample" FileSize="32512" Flag="131072">
+  <Tags Bpm="0.428571" Flag="1" />
+  <Infos SongLength="1.718277" FirstSeen="1597053333" Bitrate="151" Cover="1" />
+  <Scan Version="801" Bpm="0.428571" />
+  <Poi Pos="0.000044" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Kick Hard.vdjsample" FileSize="51392" Flag="131072">
+  <Tags Bpm="0.468511" Flag="1" />
+  <Infos SongLength="3.751474" FirstSeen="1597053333" Bitrate="110" Cover="1" />
+  <Scan Version="801" Bpm="0.468511" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Kick Clap.vdjsample" FileSize="86811" Flag="131072">
+  <Tags Bpm="0.468750" Flag="1" />
+  <Infos SongLength="3.752925" FirstSeen="1597053333" Bitrate="185" Cover="1" />
+  <Scan Version="801" Bpm="0.468750" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Kick Snare.vdjsample" FileSize="82686" Flag="131072">
+  <Tags Bpm="0.468797" Flag="1" />
+  <Infos SongLength="3.752925" FirstSeen="1597053333" Bitrate="176" Cover="1" />
+  <Scan Version="801" Bpm="0.468797" />
+  <Poi Pos="0.000499" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Instruments\Synth Melo.vdjsample" FileSize="91472" Flag="131072">
+  <Tags Bpm="0.468742" Flag="1" />
+  <Infos SongLength="3.752925" FirstSeen="1597053333" Bitrate="195" Cover="1" />
+  <Scan Version="801" Bpm="0.468742" />
+  <Poi Pos="0.459134" Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\FREE Grebz x Zhu Type Beat 2019 Lights House Type Beat Pop, Dance, Techno Rap Type Beat 2019.mp3" FileSize="3401906">
+  <Tags Flag="1" />
+  <Infos SongLength="141.664943" FirstSeen="1597053503" FirstPlay="1597053569" LastPlay="1597106476" PlayCount="2" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.491803" AltBpm="0.368844" Volume="0.683787" Key="E" Flag="32772" />
+  <Poi Pos="0.031927" Type="automix" Point="realStart" />
+  <Poi Pos="0.050" Type="automix" Point="fadeStart" />
+  <Poi Pos="11.799365" Type="automix" Point="cutStart" />
+  <Poi Pos="0.031927" Type="beatgrid" />
+  <Poi Pos="13.773583" Type="automix" Point="tempoStart" />
+  <Poi Name="Break 1" Pos="105.745125" Type="remix" />
+  <Poi Name="End Break 1" Pos="121.974422" Type="remix" />
+  <Poi Pos="135.252608" Type="automix" Point="cutEnd" />
+  <Poi Pos="137.50" Type="automix" Point="fadeEnd" />
+  <Poi Pos="138.566531" Type="automix" Point="realEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\[SOLD] SKI MASK THE SLUMP GOD TYPE BEAT DRUM (prod. ESKRY).mp3" FileSize="3050821">
+  <Tags Remix="SOLD" Flag="1" />
+  <Infos SongLength="127.059592" FirstSeen="1597034097" FirstPlay="1597106750" LastPlay="1597107316" PlayCount="2" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.60" AltBpm="0.449989" Volume="1.605128" Key="F" Flag="32768" />
+  <Poi Pos="19.276077" Type="beatgrid" />
+  <Poi Pos="0.069660" Type="automix" Point="realStart" />
+  <Poi Pos="124.876916" Type="automix" Point="realEnd" />
+  <Poi Pos="7.750" Type="automix" Point="fadeStart" />
+  <Poi Pos="124.30" Type="automix" Point="fadeEnd" />
+  <Poi Pos="19.270385" Type="automix" Point="cutStart" />
+  <Poi Pos="114.687710" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U91.vdjsample" FileSize="225089">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-12.vdjsample" FileSize="186100">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-21.vdjsample" FileSize="154869">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U92.vdjsample" FileSize="240445">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-13.vdjsample" FileSize="180620">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-22.vdjsample" FileSize="144910">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S95.vdjsample" FileSize="224529">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-14.vdjsample" FileSize="130223">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-23.vdjsample" FileSize="146226">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S87.vdjsample" FileSize="244154">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-15.vdjsample" FileSize="118075">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-24.vdjsample" FileSize="190571">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S96.vdjsample" FileSize="222164">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-16.vdjsample" FileSize="127719">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-25.vdjsample" FileSize="144657">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U94.vdjsample" FileSize="218653">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-17.vdjsample" FileSize="110456">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-26.vdjsample" FileSize="160452">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S97.vdjsample" FileSize="229649">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-18.vdjsample" FileSize="280824">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-27.vdjsample" FileSize="143620">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-19.vdjsample" FileSize="247548">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-28.vdjsample" FileSize="161337">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-02.vdjsample" FileSize="238134">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-03.vdjsample" FileSize="148230">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-05.vdjsample" FileSize="235592" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="12.80" FirstSeen="1597123090" Cover="1" />
+ </Song>                                                                                                                                                                                      
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-06.vdjsample" FileSize="228451">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-07.vdjsample" FileSize="218795">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-08.vdjsample" FileSize="271544">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-09.vdjsample" FileSize="216346">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123090" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-01.vdjsample" FileSize="58224">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>                                               
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (2).vdjsample" FileSize="243144">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Ready.vdjsample" FileSize="15311">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (4).vdjsample" FileSize="702301">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (5).vdjsample" FileSize="219722">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (6).vdjsample" FileSize="422544">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (7).vdjsample" FileSize="408446">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (8).vdjsample" FileSize="520028">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (9).vdjsample" FileSize="210016">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" Cover="1" />
+ </Song>                                                                                                                                        
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (10).vdjsample" FileSize="716504">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (11).vdjsample" FileSize="246173">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123341" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (1).vdjsample" FileSize="726593">
+  <Tags Flag="2" />
+  <Infos SongLength="30.155465" FirstSeen="1597123341" Bitrate="192" Cover="1" />
+  <Scan Version="801" Bpm="0.812472" AltBpm="0.969410" Volume="0.441111" Key="F" Flag="32768" />
+  <Poi Pos="1.284762" Type="beatgrid" />
+  <Poi Pos="1.195828" Type="automix" Point="realStart" />
+  <Poi Pos="30.116281" Type="automix" Point="realEnd" />
+  <Poi Pos="1.850" Type="automix" Point="fadeStart" />
+  <Poi Pos="29.150" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\3D Sound MrDjMajid.zip\3D Sound @Mr.Dj.Majid (3).vdjsample" FileSize="531262">
+  <Tags Flag="2" />
+  <Infos SongLength="25.166077" FirstSeen="1597123341" Bitrate="192" Cover="1" />
+  <Scan Version="801" Bpm="0.538639" AltBpm="0.941587" Volume="1.463470" Key="G" Flag="32768" />
+  <Poi Pos="1.560930" Type="beatgrid" />
+  <Poi Pos="1.419320" Type="automix" Point="realStart" />
+  <Poi Pos="25.116735" Type="automix" Point="realEnd" />
+  <Poi Pos="2.950" Type="automix" Point="fadeStart" />
+  <Poi Pos="23.250" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Trumpet.vdjsample" FileSize="147544">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U95.vdjsample" FileSize="253278">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                                  
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Clap Roll.vdjsample" FileSize="325689">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Snap Roll.vdjsample" FileSize="223599">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Spooky FX.vdjsample" FileSize="90565">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Noise Layer.vdjsample" FileSize="24182">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Climax Wobble.vdjsample" FileSize="75691">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Lazer.vdjsample" FileSize="70293">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Reverse Cymbal.vdjsample" FileSize="25129">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Woooh.vdjsample" FileSize="75788">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Chant (Flat Drop).vdjsample" FileSize="76962">
+  <Tags Remix="Flat Drop" Flag="2" />
+  <Infos FirstSeen="1597123375" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Lead.vdjsample" FileSize="201279" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="6.868576" FirstSeen="1597123375" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\ReWind.vdjsample" FileSize="70361">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>                                                                                                                                                     
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Kick Snare Beat.vdjsample" FileSize="70950" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="3.449252" FirstSeen="1597123375" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\hot gal.vdjsample" FileSize="42324">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Come On.vdjsample" FileSize="139242">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S89.vdjsample" FileSize="270317">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>        
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\Close Hat Roll.vdjsample" FileSize="101033" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="4.787664" FirstSeen="1597123375" Bitrate="192" Cover="1" />
+  <Scan Version="801" Bpm="0.338685" AltBpm="0.612404" Volume="0.024143" Key="Gm" Flag="32768" />
+  <Poi Pos="0.101587" Type="beatgrid" />
+  <Poi Pos="0.248163" Type="automix" Point="realStart" />
+  <Poi Pos="3.005533" Type="automix" Point="realEnd" />
+  <Poi Pos="0.250" Type="automix" Point="fadeStart" />
+  <Poi Pos="3.005533" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - Chuckey Trumpet Samples.zip\808 16 Bars.vdjsample" FileSize="465537" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="27.496780" FirstSeen="1597123375" FirstPlay="1597123579" LastPlay="1597123579" PlayCount="1" Bitrate="192" Cover="1" />
+  <Scan Version="801" Bpm="0.428571" AltBpm="0.535782" Volume="0.115045" Key="F" Flag="32768" />
+  <Poi Pos="0.903741" Type="beatgrid" />
+  <Poi Pos="0.034830" Type="automix" Point="realStart" />
+  <Poi Pos="27.456145" Type="automix" Point="realEnd" />
+  <Poi Pos="1.10" Type="automix" Point="fadeStart" />
+  <Poi Pos="26.20" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Oh Okey.vdjsample" FileSize="46576">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Woyoyy.vdjsample" FileSize="35036">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Battyman.vdjsample" FileSize="159056">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Do ya now.vdjsample" FileSize="38505">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Xplotion.vdjsample" FileSize="80304">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Ya go dead.vdjsample" FileSize="30636">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Junglists.vdjsample" FileSize="117696">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Bombaclatt.vdjsample" FileSize="56398">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\call dem yah.vdjsample" FileSize="41374">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Sample Dizz.vdjsample" FileSize="34826">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Truck Sound.vdjsample" FileSize="159347">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Buzzer Horn.vdjsample" FileSize="305955">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Speedometer.vdjsample" FileSize="38476">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\Ambition Lazer.vdjsample" FileSize="67785">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\You now We gooo.vdjsample" FileSize="78827">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Dancehall Vocal Pack II.zip\Dancehall Vocal Pack II\di style diferent.vdjsample" FileSize="46836">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123639" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\S98.vdjsample" FileSize="233744">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U88.vdjsample" FileSize="217374">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U98.vdjsample" FileSize="228004">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\B132.vdjsample" FileSize="155533">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\B125.vdjsample" FileSize="163223">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                                                                                                                                                                                            
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\B128.vdjsample" FileSize="178411">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>                                                                                                                                                                                            
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M130.vdjsample" FileSize="160957">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M140.vdjsample" FileSize="163703">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M132.vdjsample" FileSize="190373">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M133.vdjsample" FileSize="179343">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U101.vdjsample" FileSize="226384">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M128.vdjsample" FileSize="147834">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M146.vdjsample" FileSize="142883">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M129.vdjsample" FileSize="173862">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\M158.vdjsample" FileSize="152828">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\U105.vdjsample" FileSize="212325">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH100.vdjsample" FileSize="185450">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH110.vdjsample" FileSize="165877">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH111.vdjsample" FileSize="169487">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH122.vdjsample" FileSize="200475">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH105.vdjsample" FileSize="193959">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH114.vdjsample" FileSize="194275">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH106.vdjsample" FileSize="171188">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\CH116.vdjsample" FileSize="185183">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123650" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\B129.vdjsample" FileSize="175771" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="7.441861" FirstSeen="1597123650" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Latino.zip\B136.vdjsample" FileSize="167765" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="7.0760" FirstSeen="1597123650" Bitrate="192" Cover="1" />
+  <Scan Version="801" Bpm="0.441224" AltBpm="0.661882" Volume="0.682623" Key="C#" Flag="32768" />
+  <Poi Pos="0.441610" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="7.025333" Type="automix" Point="realEnd" />
+  <Poi Type="automix" Point="fadeStart" />
+  <Poi Pos="6.850" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.440454" Type="automix" Point="cutStart" />
+  <Poi Pos="6.161995" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\808.vdjsample" FileSize="64305">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Beat .vdjsample" FileSize="135702">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Keys.vdjsample" FileSize="38502">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Honk 1.vdjsample" FileSize="219730">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Honk 2.vdjsample" FileSize="112984">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Pluck 1.vdjsample" FileSize="46853">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Clap Roll.vdjsample" FileSize="77613">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Flat Chant.vdjsample" FileSize="294566">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Clap Build Up.vdjsample" FileSize="319837">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Flat Open Hat.vdjsample" FileSize="23972">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Closed Hat Roll 1.vdjsample" FileSize="26465">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\DJ King Rox - 6 Teen Samples.zip\Closed Hat Roll 2.vdjsample" FileSize="40056">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123788" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 03.zip\Beat Loops 03\BT-04.vdjsample" FileSize="274440" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="12.821769" FirstSeen="1597123090" Bitrate="192" Cover="1" />
+  <Scan Version="801" Bpm="0.799955" AltBpm="0.599977" Volume="0.945359" Key="F" Flag="32768" />
+  <Poi Pos="1.600227" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="12.704218" Type="automix" Point="realEnd" />
+  <Poi Type="automix" Point="fadeStart" />
+  <Poi Pos="12.40" Type="automix" Point="fadeEnd" />
+  <Poi Pos="1.599274" Type="automix" Point="cutStart" />
+  <Poi Pos="12.225306" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-10.vdjsample" FileSize="72979">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-02.vdjsample" FileSize="58247">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-11.vdjsample" FileSize="70940">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-03.vdjsample" FileSize="62952">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-04.vdjsample" FileSize="61388">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-01.vdjsample" FileSize="74432">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Drums Sampler.zip\SK Drums.vdjsample" FileSize="324270">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123883" />
+ </Song>           
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-05.vdjsample" FileSize="52683">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B94-01.vdjsample" FileSize="51041">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-02.vdjsample" FileSize="74834">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Rambo.vdjsample" FileSize="276226">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>            
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-06.vdjsample" FileSize="52993">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B94-02.vdjsample" FileSize="49398">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-03.vdjsample" FileSize="56278">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>                                                                                                                                                                                                             
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-07.vdjsample" FileSize="52660">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B94-03.vdjsample" FileSize="60056">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-04.vdjsample" FileSize="54839">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>                                                                                                                                                                                                             
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-08.vdjsample" FileSize="53306">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-01.vdjsample" FileSize="55333">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-05.vdjsample" FileSize="54960">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B90-09.vdjsample" FileSize="75675">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-02.vdjsample" FileSize="56278">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-06.vdjsample" FileSize="54874">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-03.vdjsample" FileSize="56562">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>                                                                                                                                                                                                             
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-04.vdjsample" FileSize="59850">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Safari.vdjsample" FileSize="515411">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>           
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-05.vdjsample" FileSize="49393">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\8Fifty.vdjsample" FileSize="532116">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>           
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-06.vdjsample" FileSize="46899">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-07.vdjsample" FileSize="72226">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-08.vdjsample" FileSize="60767">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B97-09.vdjsample" FileSize="66082">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-01.vdjsample" FileSize="58741">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Anthem.vdjsample" FileSize="175991">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>            
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-02.vdjsample" FileSize="58500">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Jumper.vdjsample" FileSize="512376">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>            
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-03.vdjsample" FileSize="61872">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-04.vdjsample" FileSize="60217">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-05.vdjsample" FileSize="60591">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-06.vdjsample" FileSize="57011">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-07.vdjsample" FileSize="58800">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-08.vdjsample" FileSize="68040">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-09.vdjsample" FileSize="57090">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-10.vdjsample" FileSize="58427">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-11.vdjsample" FileSize="56489">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-12.vdjsample" FileSize="58166">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-13.vdjsample" FileSize="53735">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-07.vdjsample" FileSize="66912">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-08.vdjsample" FileSize="68022">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B85-09.vdjsample" FileSize="61926">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-10.vdjsample" FileSize="68319">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Beat Loops 02.zip\Beat Loops 02\B100-11.vdjsample" FileSize="54931">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123881" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Off The Hook.vdjsample" FileSize="261136">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>                                                                                                         
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Video\Ahhh - Scratch.vdjsample" FileSize="1157794" Flag="64">
+  <Tags Bpm="0.568889" Flag="1" />
+  <Infos SongLength="1.1150" FirstSeen="1597123902" Bitrate="8307" Cover="1" />
+  <Scan Version="801" Bpm="0.568889" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Video\321.vdjsample" FileSize="959921" Flag="64">
+  <Tags Bpm="0.429289" Flag="1" />
+  <Infos SongLength="3.4130" FirstSeen="1597123902" Bitrate="2250" Cover="1" />
+  <Scan Version="801" Bpm="0.429289" />
+  <Poi Type="beatgrid" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Drums Sampler.zip\Hit Drums.vdjsample" FileSize="291490">
+  <Tags Flag="2" />
+  <Infos SongLength="14.455873" FirstSeen="1597123883" FirstPlay="1597123989" LastPlay="1597123989" PlayCount="1" Bitrate="160" Cover="1" />
+  <Scan Version="801" Bpm="0.451134" AltBpm="0.676689" Volume="0.553720" Key="F" Flag="32768" />
+  <Poi Pos="1.802517" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="14.434104" Type="automix" Point="realEnd" />
+  <Poi Type="automix" Point="fadeStart" />
+  <Poi Pos="14.30" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.786576" Type="automix" Point="cutStart" />
+  <Poi Pos="12.403084" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Shine A Light.vdjsample" FileSize="416900">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\EDM Drop Pack 1.zip\Dance Floor Is Yours.vdjsample" FileSize="561403">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Inception.vdjsample" FileSize="116953">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Fog Horn x3.vdjsample" FileSize="258197">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Inception II.vdjsample" FileSize="144716">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Inception IV.vdjsample" FileSize="130599">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Fog Horn Deep.vdjsample" FileSize="347010">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Fog Horn Long.vdjsample" FileSize="573716">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Inception III.vdjsample" FileSize="45110">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Ship Long Horn.vdjsample" FileSize="152493">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Fog Horn Distant.vdjsample" FileSize="129867">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Fog Horn Orchestral.vdjsample" FileSize="134372">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Fog Horn Inception.zip\Fog Horns &amp; Inception\Inception II Resonance.vdjsample" FileSize="130918">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123997" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass.vdjsample" FileSize="665325">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 1.vdjsample" FileSize="720331">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>                                                                                                                                                                                                         
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 3.vdjsample" FileSize="773545">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 4.vdjsample" FileSize="852238">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 5.vdjsample" FileSize="734045">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 6.vdjsample" FileSize="293785">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 7.vdjsample" FileSize="196977">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat.vdjsample" FileSize="352481">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>                                                                                                                                                                                                        
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat (3).vdjsample" FileSize="327210">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat (4).vdjsample" FileSize="374874">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat (5).vdjsample" FileSize="339669">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat (6).vdjsample" FileSize="367479">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat (7).vdjsample" FileSize="352364">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123998" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Hey.vdjsample" FileSize="22510">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Wow.vdjsample" FileSize="42615">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\High.vdjsample" FileSize="25735">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Love.vdjsample" FileSize="43340">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Down.vdjsample" FileSize="28911">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Baaah.vdjsample" FileSize="41634">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Daaah.vdjsample" FileSize="41907">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Get Up.vdjsample" FileSize="50379">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Come On.vdjsample" FileSize="44341">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Feeling.vdjsample" FileSize="32349">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Tonight.vdjsample" FileSize="32662">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Get Down.vdjsample" FileSize="32686">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Deeeuuhh.vdjsample" FileSize="41920">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\OohDaBum.vdjsample" FileSize="33898">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Tonight 2.vdjsample" FileSize="50142">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Get Down 2.vdjsample" FileSize="32606">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Everybody.vdjsample" FileSize="48478">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Vox Voices.zip\Vox Voices\Terminates.vdjsample" FileSize="41079">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\Huge Kick.vdjsample" FileSize="43000">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\Room Kick.vdjsample" FileSize="37549">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\House Kick.vdjsample" FileSize="59304">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\Room Kick (2).vdjsample" FileSize="158597">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\Electro Kick.vdjsample" FileSize="134083">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\House Kick (2).vdjsample" FileSize="109359">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Kick Sampler.zip\Electro Kick (2).vdjsample" FileSize="59213">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Hop Rise.vdjsample" FileSize="192779">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Drum Rise.vdjsample" FileSize="326938">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Snare Rise.vdjsample" FileSize="324924">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\House Rise.vdjsample" FileSize="315909">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Edm Bar Rise.vdjsample" FileSize="635288">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Skraxx Rise.vdjsample" FileSize="174621">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Classic Rise.vdjsample" FileSize="354702">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Edm Snare Rise.vdjsample" FileSize="313727">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Xtreme Rise Sampler.zip\Drum Drop Rise.vdjsample" FileSize="340789">
+  <Tags Flag="2" />
+  <Infos FirstSeen="1597123999" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Party Sampler.zip\Party Beat (2).vdjsample" FileSize="343532" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="14.976871" FirstSeen="1597123998" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Maxx Bass Sampler.zip\Maxx Bass 2.vdjsample" FileSize="823072" Flag="131072">
+  <Tags Flag="2" />
+  <Infos SongLength="30.000181" FirstSeen="1597123998" Cover="1" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (8).vdjsample" FileSize="751859">
+  <Tags Flag="1" />
+  <Infos SongLength="61.214667" FirstSeen="1597772546" FirstPlay="1597772598" LastPlay="1597772598" PlayCount="1" Bitrate="192" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                             
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Drums Sampler.zip\Hard Drums.vdjsample" FileSize="408595">
+  <Tags Flag="2" />
+  <Infos SongLength="21.163537" FirstSeen="1597123883" FirstPlay="1597124115" LastPlay="1597124115" PlayCount="1" Bitrate="160" Cover="1" />
+  <Scan Version="801" Bpm="0.440862" AltBpm="0.661224" Volume="1.137926" Key="C#" Flag="32768" />
+  <Poi Pos="1.761429" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="21.140317" Type="automix" Point="realEnd" />
+  <Poi Type="automix" Point="fadeStart" />
+  <Poi Pos="20.70" Type="automix" Point="fadeEnd" />
+  <Poi Pos="2.200816" Type="automix" Point="cutStart" />
+  <Poi Pos="19.834195" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Drums Sampler.zip\Fast Drums.vdjsample" FileSize="166615" Flag="16">
+  <Tags Flag="2" />
+  <Infos SongLength="7.386848" FirstSeen="1597123883" Bitrate="160" Cover="1" />
+  <Scan Version="801" Bpm="0.461599" AltBpm="0.692290" Volume="1.257334" Key="D" Flag="32768" />
+  <Poi Pos="1.851066" Type="beatgrid" />
+  <Poi Type="automix" Point="realStart" />
+  <Poi Pos="7.381043" Type="automix" Point="realEnd" />
+  <Poi Type="automix" Point="fadeStart" />
+  <Poi Pos="7.30" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.002177" Type="automix" Point="cutStart" />
+  <Poi Pos="6.671383" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\op.mp3" FileSize="596355">
+  <Tags Flag="1" />
+  <Infos SongLength="24.775692" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.727211" AltBpm="0.580907" Volume="1.702711" Key="C#" Flag="32768" />
+  <Poi Pos="-2.221814" Type="beatgrid" />
+  <Poi Pos="0.072562" Type="automix" Point="realStart" />
+  <Poi Pos="24.739410" Type="automix" Point="realEnd" />
+  <Poi Pos="0.30" Type="automix" Point="fadeStart" />
+  <Poi Pos="23.850" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.293152" Type="automix" Point="cutStart" />
+  <Poi Pos="22.111927" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone, Ozzy, Travis - Take What You Want (Acapella Studio).mp3" FileSize="5519706">
+  <Tags Remix="Acapella Studio" Flag="1" />
+  <Infos SongLength="229.923991" FirstSeen="1597206753" FirstPlay="1597207411" LastPlay="1597466926" PlayCount="2" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.857075" AltBpm="0.642902" Volume="0.557484" Key="B" Flag="32768" />
+  <Poi Pos="10.762086" Type="beatgrid" />
+  <Poi Pos="0.332336" Type="automix" Point="realStart" />
+  <Poi Pos="225.583311" Type="automix" Point="realEnd" />
+  <Poi Pos="11.20" Type="automix" Point="fadeStart" />
+  <Poi Pos="217.050" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Ganja White Night, Liquid Stranger - Jungle Juice.mp3" FileSize="6601802">
+  <Tags Flag="1" />
+  <Infos SongLength="275.017143" FirstSeen="1597206753" FirstPlay="1597207444" LastPlay="1597467178" PlayCount="3" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.827551" AltBpm="0.620680" Volume="1.288647" Key="Ebm" Flag="32768" />
+  <Poi Pos="66.280045" Type="beatgrid" />
+  <Poi Pos="0.066757" Type="automix" Point="realStart" />
+  <Poi Pos="270.869478" Type="automix" Point="realEnd" />
+  <Poi Pos="5.550" Type="automix" Point="fadeStart" />
+  <Poi Pos="265.0" Type="automix" Point="fadeEnd" />
+  <Poi Pos="67.103492" Type="automix" Point="cutStart" />
+  <Poi Pos="233.444717" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\猫叉Master+ - Yasashii Sekai feat. Sana.mp3" FileSize="3507232">
+  <Tags Flag="1" />
+  <Infos SongLength="146.076735" FirstSeen="1597206753" FirstPlay="1597207768" LastPlay="1597207768" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.799955" AltBpm="0.601338" Volume="1.183209" Key="C#m" Flag="32768" />
+  <Poi Pos="12.399570" Type="beatgrid" />
+  <Poi Pos="0.343946" Type="automix" Point="realStart" />
+  <Poi Pos="143.468844" Type="automix" Point="realEnd" />
+  <Poi Pos="0.40" Type="automix" Point="fadeStart" />
+  <Poi Pos="136.450" Type="automix" Point="fadeEnd" />
+ </Song>                                                                                  
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - Better Now (Acapella - HQ - Vocals Only) (1).mp3" FileSize="5282723">
+  <Tags Flag="1" />
+  <Infos SongLength="220.055510" FirstSeen="1597206753" FirstPlay="1597207545" LastPlay="1597207545" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.827574" AltBpm="0.620726" Volume="0.902847" Key="Dm" Flag="32768" />
+  <Poi Pos="11.117620" Type="beatgrid" />
+  <Poi Pos="0.098685" Type="automix" Point="realStart" />
+  <Poi Pos="215.090794" Type="automix" Point="realEnd" />
+  <Poi Pos="0.150" Type="automix" Point="fadeStart" />
+  <Poi Pos="211.0" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Ganja White Night x Subtronics - Headband.mp3" FileSize="5251376">
+  <Tags Flag="1" />
+  <Infos SongLength="218.731973" FirstSeen="1597206753" FirstPlay="1597207565" LastPlay="1597772106" PlayCount="3" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.827483" AltBpm="0.620680" Volume="1.681113" Key="Am" Flag="32768" />
+  <Poi Pos="0.168753" Type="beatgrid" />
+  <Poi Pos="0.150930" Type="automix" Point="realStart" />
+  <Poi Pos="218.586848" Type="automix" Point="realEnd" />
+  <Poi Pos="13.40" Type="automix" Point="fadeStart" />
+  <Poi Pos="211.60" Type="automix" Point="fadeEnd" />
+  <Poi Pos="33.296689" Type="automix" Point="cutStart" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - Internet (Acapella - Studio Quality DIY).mp3" FileSize="2643310">
+  <Tags Remix="Acapella - Studio Quality DIY" Flag="1" />
+  <Infos SongLength="110.062585" FirstSeen="1597206753" FirstPlay="1597207631" LastPlay="1597772312" PlayCount="2" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.810748" AltBpm="0.608299" Volume="1.036260" Key="G" Flag="32768" />
+  <Poi Pos="0.087846" Type="beatgrid" />
+  <Poi Pos="0.333787" Type="automix" Point="realStart" />
+  <Poi Pos="107.257324" Type="automix" Point="realEnd" />
+  <Poi Pos="25.250" Type="automix" Point="fadeStart" />
+  <Poi Pos="102.80" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Ganja White Night x Apashe - Flute Chillum.mp3" FileSize="6242566">
+  <Tags Flag="1" />
+  <Infos SongLength="260.065306" FirstSeen="1597206753" FirstPlay="1597207636" LastPlay="1597772296" PlayCount="2" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.80" AltBpm="0.60" Volume="1.704392" Key="Fm" Flag="32768" />
+  <Poi Pos="24.077438" Type="beatgrid" />
+  <Poi Pos="0.066757" Type="automix" Point="realStart" />
+  <Poi Pos="257.365624" Type="automix" Point="realEnd" />
+  <Poi Pos="13.40" Type="automix" Point="fadeStart" />
+  <Poi Pos="256.050" Type="automix" Point="fadeEnd" />
+  <Poi Pos="48.074739" Type="automix" Point="cutStart" />
+  <Poi Pos="215.141587" Type="automix" Point="cutEnd" />
+ </Song>                                                                                                                                                                                                                                                               
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - Better Now (Acapella - HQ - Vocals Only).mp3" FileSize="5282723">
+  <Tags Remix="Acapella - HQ - Vocals Only" Flag="1" />
+  <Infos SongLength="220.055510" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.827574" AltBpm="0.620726" Volume="0.902847" Key="Dm" Flag="32768" />
+  <Poi Pos="22.289864" Type="beatgrid" />
+  <Poi Pos="0.098685" Type="automix" Point="realStart" />
+  <Poi Pos="215.090794" Type="automix" Point="realEnd" />
+  <Poi Pos="0.150" Type="automix" Point="fadeStart" />
+  <Poi Pos="211.0" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\&apos;&apos;GANG&apos;&apos; Trap Beat TrapHip Hop - Hip Hop Rap Instrumental HARD Uso Libre.mp3" FileSize="2519177">
+  <Tags Flag="1" />
+  <Infos SongLength="104.884535" FirstSeen="1597206753" FirstPlay="1597466691" LastPlay="1597466691" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.545465" AltBpm="0.818163" Volume="0.821679" Key="G" Flag="32768" />
+  <Poi Pos="17.616735" Type="beatgrid" />
+  <Poi Pos="0.162540" Type="automix" Point="realStart" />
+  <Poi Pos="104.145850" Type="automix" Point="realEnd" />
+  <Poi Pos="0.162540" Type="automix" Point="fadeStart" />
+  <Poi Pos="103.80" Type="automix" Point="fadeEnd" />
+  <Poi Pos="17.618141" Type="automix" Point="cutStart" />
+  <Poi Pos="86.888345" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\OneDrive\Documents\VirtualDJ\Sampler\Recordings\mic (7).vdjsample" FileSize="2143576">
+  <Tags Flag="1" />
+  <Infos SongLength="187.345333" FirstSeen="1597639483" FirstPlay="1597639551" LastPlay="1597639551" PlayCount="1" Bitrate="192" Cover="1" />
+  <Scan Version="801" />
+  <Poi Type="beatgrid" />
+ </Song>                                                                                                                                                                                                                            
+ <Song FilePath="C:\Users\summe\Downloads\Gipsy Kings - Bamboléo (Acapella Official Studio - Vocals Only).mp3" FileSize="4800607">
+  <Tags Remix="Acapella Official Studio - Vocals Only" Flag="1" />
+  <Infos SongLength="199.947029" FirstSeen="1597206753" FirstPlay="1597207810" LastPlay="1597207810" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.752517" AltBpm="0.501678" Volume="0.661662" Key="A" Flag="32768" />
+  <Poi Pos="24.333561" Type="beatgrid" />
+  <Poi Pos="0.262676" Type="automix" Point="realStart" />
+  <Poi Pos="193.520907" Type="automix" Point="realEnd" />
+  <Poi Pos="0.30" Type="automix" Point="fadeStart" />
+  <Poi Pos="192.40" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Rich Brian - 100 Degrees (Acapella - Almost Studio).mp3" FileSize="3598765">
+  <Tags Remix="Acapella - Almost Studio" Flag="1" />
+  <Infos SongLength="149.884807" FirstSeen="1597206753" FirstPlay="1597466277" LastPlay="1597466277" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.740862" AltBpm="0.559637" Volume="1.117124" Key="Em" Flag="32768" />
+  <Poi Pos="26.128593" Type="beatgrid" />
+  <Poi Pos="0.065306" Type="automix" Point="realStart" />
+  <Poi Pos="144.613878" Type="automix" Point="realEnd" />
+  <Poi Pos="0.20" Type="automix" Point="fadeStart" />
+  <Poi Pos="144.350" Type="automix" Point="fadeEnd" />
+ </Song>                                                                         
+ <Song FilePath="C:\Users\summe\Downloads\Apashe &amp; Instasamka - Uebok (Gotta Run).mp3" FileSize="3927281">
+  <Tags Remix="Gotta Run" Flag="1" />
+  <Infos SongLength="163.561361" FirstSeen="1597206753" FirstPlay="1597207933" LastPlay="1597207933" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.749977" AltBpm="0.562562" Volume="1.645788" Key="F" Flag="32768" />
+  <Poi Pos="34.584038" Type="beatgrid" />
+  <Poi Pos="0.074014" Type="automix" Point="realStart" />
+  <Poi Pos="158.898503" Type="automix" Point="realEnd" />
+  <Poi Pos="0.70" Type="automix" Point="fadeStart" />
+  <Poi Pos="156.550" Type="automix" Point="fadeEnd" />
+  <Poi Pos="127.579909" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\$UICIDEBOY$ - FOR THE LAST TIME (ACAPELLA).mp3" FileSize="2759294">
+  <Tags Remix="ACAPELLA" Flag="1" />
+  <Infos SongLength="114.892336" FirstSeen="1597206753" FirstPlay="1597466386" LastPlay="1597466386" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.428152" AltBpm="0.642268" Volume="1.126409" Key="C#" Flag="32768" />
+  <Poi Pos="11.859591" Type="beatgrid" />
+  <Poi Pos="0.172698" Type="automix" Point="realStart" />
+  <Poi Pos="112.40780" Type="automix" Point="realEnd" />
+  <Poi Pos="0.30" Type="automix" Point="fadeStart" />
+  <Poi Pos="112.20" Type="automix" Point="fadeEnd" />
+ </Song>                                                   
+ <Song FilePath="C:\Users\summe\Downloads\Khalid &amp; A Boogie Wit Da Hoodie - Right Back (Acapella).mp3" FileSize="5760450">
+  <Tags Remix="Acapella" Flag="1" />
+  <Infos SongLength="239.955011" FirstSeen="1597206753" FirstPlay="1597206980" LastPlay="1597206980" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.618231" AltBpm="0.928050" Volume="1.358971" Key="A#" Flag="32768" />
+  <Poi Pos="35.641861" Type="beatgrid" />
+  <Poi Pos="3.114376" Type="automix" Point="realStart" />
+  <Poi Pos="238.820136" Type="automix" Point="realEnd" />
+  <Poi Pos="10.90" Type="automix" Point="fadeStart" />
+  <Poi Pos="238.20" Type="automix" Point="fadeEnd" />
+  <Poi Pos="35.630295" Type="automix" Point="cutStart" />
+  <Poi Pos="231.165533" Type="automix" Point="cutEnd" />
+ </Song>                                                                                                                                                                                                                              
+ <Song FilePath="C:\Users\summe\Downloads\Last Wordz - Boom Bap Type Freestyle Beat Rap Instrumental Beat Anabolic Beatz.mp3" FileSize="4677100">
+  <Tags Flag="1" />
+  <Infos SongLength="194.815420" FirstSeen="1597206753" FirstPlay="1597206862" LastPlay="1597206862" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.666667" AltBpm="0.50" Volume="1.297227" Key="Eb" Flag="32768" />
+  <Poi Pos="24.014648" Type="beatgrid" />
+  <Poi Pos="0.068209" Type="automix" Point="realStart" />
+  <Poi Pos="193.838730" Type="automix" Point="realEnd" />
+  <Poi Pos="2.70" Type="automix" Point="fadeStart" />
+  <Poi Pos="184.70" Type="automix" Point="fadeEnd" />
+  <Poi Pos="24.021043" Type="automix" Point="cutStart" />
+  <Poi Pos="184.021043" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Base De Trap Pesado - &apos;&apos;Las Jordan&apos;&apos; Trap Instrumental 2020 Pista De Trap 2020.mp3" FileSize="3097841">
+  <Tags Flag="1" />
+  <Infos SongLength="129.010068" FirstSeen="1597206753" FirstPlay="1597466397" LastPlay="1597466397" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.459184" AltBpm="0.688776" Volume="1.379381" Key="Fm" Flag="32768" />
+  <Poi Pos="27.664740" Type="beatgrid" />
+  <Poi Pos="0.134966" Type="automix" Point="realStart" />
+  <Poi Pos="128.274286" Type="automix" Point="realEnd" />
+  <Poi Pos="0.134966" Type="automix" Point="fadeStart" />
+  <Poi Pos="121.350" Type="automix" Point="fadeEnd" />
+  <Poi Pos="28.381315" Type="automix" Point="cutStart" />
+  <Poi Pos="117.262948" Type="automix" Point="cutEnd" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+ <Song FilePath="C:\Users\summe\Downloads\DaBaby - TOES (Lyrics) ft. Lil Baby &amp; Moneybagg Yo My heart so cold I think i&apos;m done with ice.mp3" FileSize="3277146">
+  <Tags Remix="Lyrics" Flag="1" />
+  <Infos SongLength="136.486893" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.750" AltBpm="0.562494" Volume="1.364116" Key="C" Flag="32768" />
+  <Poi Pos="1.707891" Type="beatgrid" />
+  <Poi Pos="0.355556" Type="automix" Point="realStart" />
+  <Poi Pos="133.699048" Type="automix" Point="realEnd" />
+  <Poi Pos="0.40" Type="automix" Point="fadeStart" />
+  <Poi Pos="132.750" Type="automix" Point="fadeEnd" />
+  <Poi Pos="5.820952" Type="automix" Point="cutStart" />
+  <Poi Pos="129.573152" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\[FREE] SKI MASK THE SLUMP GOD x SMOKEPURPP x TOKYO&apos;S REVENGE TYPE BEAT 2020 prod. by klimonglu.mp3" FileSize="3482782">
+  <Tags Remix="FREE" Flag="1" />
+  <Infos SongLength="145.055057" FirstSeen="1597206753" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.48780" AltBpm="0.731701" Volume="1.562331" Key="F#m" Flag="32768" />
+  <Poi Pos="31.288481" Type="beatgrid" />
+  <Poi Pos="0.069660" Type="automix" Point="realStart" />
+  <Poi Pos="140.560544" Type="automix" Point="realEnd" />
+  <Poi Pos="10.80" Type="automix" Point="fadeStart" />
+  <Poi Pos="129.850" Type="automix" Point="fadeEnd" />
+  <Poi Pos="32.018141" Type="automix" Point="cutStart" />
+  <Poi Pos="123.234104" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="61.03220" Type="remix" />
+  <Poi Name="End Break 1" Pos="78.116281" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Travis Scott - SICKO MODE (Acapella - HQ Vocals).mp3" FileSize="6962919">
+  <Tags Remix="Acapella - HQ Vocals" Flag="1" />
+  <Infos SongLength="290.063673" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.774354" AltBpm="0.580771" Volume="0.897157" Key="G#" Flag="32768" />
+  <Poi Pos="47.910679" Type="beatgrid" />
+  <Poi Pos="0.384580" Type="automix" Point="realStart" />
+  <Poi Pos="282.512834" Type="automix" Point="realEnd" />
+  <Poi Pos="0.450" Type="automix" Point="fadeStart" />
+  <Poi Pos="281.150" Type="automix" Point="fadeEnd" />
+  <Poi Pos="81.522358" Type="automix" Point="cutStart" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\your words.mp3" FileSize="400750">
+  <Tags Flag="1" />
+  <Infos SongLength="16.625488" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.719819" AltBpm="0.647551" Volume="0.939461" Key="Gm" Flag="32768" />
+  <Poi Pos="-1.18610" Type="beatgrid" />
+  <Poi Pos="0.066757" Type="automix" Point="realStart" />
+  <Poi Pos="16.158186" Type="automix" Point="realEnd" />
+  <Poi Pos="0.30" Type="automix" Point="fadeStart" />
+  <Poi Pos="14.850" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Shakira - Loca (Vocals Only - Acapella) ft. Dizzee Rascal.mp3" FileSize="4682742">
+  <Tags Remix="Vocals Only - Acapella" Flag="1" />
+  <Infos SongLength="195.047619" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.537098" AltBpm="0.803401" Volume="0.934855" Key="Am" Flag="32768" />
+  <Poi Pos="35.423199" Type="beatgrid" />
+  <Poi Pos="0.637098" Type="automix" Point="realStart" />
+  <Poi Pos="188.654875" Type="automix" Point="realEnd" />
+  <Poi Pos="0.650" Type="automix" Point="fadeStart" />
+  <Poi Pos="187.550" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Versace 90s OldSchool Type Freestyle Beat Rap Instrumental Beat Anabolic Beatz.mp3" FileSize="4666442">
+  <Tags Flag="1" />
+  <Infos SongLength="194.374240" FirstSeen="1597206753" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.674150" AltBpm="0.505624" Volume="1.374427" Key="F#" Flag="32768" />
+  <Poi Pos="21.595057" Type="beatgrid" />
+  <Poi Pos="0.049342" Type="automix" Point="realStart" />
+  <Poi Pos="193.384490" Type="automix" Point="realEnd" />
+  <Poi Pos="21.60" Type="automix" Point="fadeStart" />
+  <Poi Pos="190.80" Type="automix" Point="fadeEnd" />
+  <Poi Pos="21.585850" Type="automix" Point="cutStart" />
+  <Poi Pos="187.772517" Type="automix" Point="cutEnd" />
+  <Poi Pos="21.598549" Type="automix" Point="tempoStart" />
+  <Poi Pos="167.890340" Type="automix" Point="tempoEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - Take What You Want ft Ozzy Osbourne, Travis Scott (ACAPELLA).mp3" FileSize="5643213">
+  <Tags Remix="ACAPELLA" Flag="1" />
+  <Infos SongLength="235.055601" FirstSeen="1597206753" FirstPlay="1597771971" LastPlay="1597771971" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.856757" AltBpm="0.643855" Volume="1.359564" Key="F#" Flag="32768" />
+  <Poi Pos="37.528141" Type="beatgrid" />
+  <Poi Pos="0.330884" Type="automix" Point="realStart" />
+  <Poi Pos="228.153469" Type="automix" Point="realEnd" />
+  <Poi Pos="0.350" Type="automix" Point="fadeStart" />
+  <Poi Pos="226.850" Type="automix" Point="fadeEnd" />
+ </Song>                                                                                                                                                                                   
+ <Song FilePath="C:\Users\summe\Downloads\Sample (3) &amp; (4).mp3" FileSize="2122324">
+  <Tags Flag="1" />
+  <Infos SongLength="88.351927" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.747370" AltBpm="0.499592" Volume="0.605238" Key="Em" Flag="32768" />
+  <Poi Pos="0.336621" Type="beatgrid" />
+  <Poi Pos="0.597914" Type="automix" Point="realStart" />
+  <Poi Pos="87.189478" Type="automix" Point="realEnd" />
+  <Poi Pos="0.650" Type="automix" Point="fadeStart" />
+  <Poi Pos="83.30" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\(FREE) Drake Type Beat - Wasabi Flow.mp3" FileSize="3453315">
+  <Tags Flag="1" />
+  <Infos SongLength="143.824399" FirstSeen="1597206753" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.641701" AltBpm="0.962540" Volume="0.590198" Key="B" Flag="32768" />
+  <Poi Pos="20.638527" Type="beatgrid" />
+  <Poi Pos="0.121905" Type="automix" Point="realStart" />
+  <Poi Pos="140.757914" Type="automix" Point="realEnd" />
+  <Poi Pos="1.10" Type="automix" Point="fadeStart" />
+  <Poi Pos="140.757914" Type="automix" Point="fadeEnd" />
+  <Poi Pos="30.425397" Type="automix" Point="cutStart" />
+  <Poi Pos="122.348844" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="60.749932" Type="remix" />
+  <Poi Name="End Break 1" Pos="86.733061" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Salvatore Ganacci - Horse (Official Music Video).mp3" FileSize="4003141">
+  <Tags Remix="Official Music Video" Flag="1" />
+  <Infos SongLength="166.719274" FirstSeen="1597206753" FirstPlay="1597466513" LastPlay="1597771818" PlayCount="2" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.410918" AltBpm="0.308186" Volume="1.509725" Key="Gm" Flag="32768" />
+  <Poi Pos="41.318821" Type="beatgrid" />
+  <Poi Pos="0.214785" Type="automix" Point="realStart" />
+  <Poi Pos="166.234558" Type="automix" Point="realEnd" />
+  <Poi Pos="13.80" Type="automix" Point="fadeStart" />
+  <Poi Pos="165.80" Type="automix" Point="fadeEnd" />
+  <Poi Pos="41.314830" Type="automix" Point="cutStart" />
+  <Poi Pos="165.410249" Type="automix" Point="cutEnd" />
+  <Poi Pos="42.142086" Type="automix" Point="tempoStart" />
+  <Poi Pos="150.213197" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="99.252971" Type="remix" />
+  <Poi Name="End Break 1" Pos="126.786757" Type="remix" />
+  <Poi Pos="153.103356" Num="1" Type="cue" />
+  <Poi Pos="153.683333" Num="6" Type="cue" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+ <Song FilePath="C:\Users\summe\Downloads\Future, Drake - Life Is Good (Vocals Only - HQ Acapella ).mp3" FileSize="5161724">
+  <Tags Remix="Vocals Only - HQ Acapella" Flag="1" />
+  <Infos SongLength="214.993560" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.844785" AltBpm="0.736871" Volume="0.751012" Key="F#m" Flag="32768" />
+  <Poi Pos="12.997597" Type="beatgrid" />
+  <Poi Pos="0.433923" Type="automix" Point="realStart" />
+  <Poi Pos="212.320363" Type="automix" Point="realEnd" />
+  <Poi Pos="0.450" Type="automix" Point="fadeStart" />
+  <Poi Pos="212.050" Type="automix" Point="fadeEnd" />
+  <Poi Name="Break 1" Pos="31.325896" Type="remix" />
+  <Poi Name="End Break 1" Pos="58.412698" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Future - I Thank U (Vocals Only - Acapella HQ).mp3" FileSize="3482782">
+  <Tags Remix="Vocals Only - Acapella HQ" Flag="1" />
+  <Infos SongLength="145.055057" FirstSeen="1597206753" FirstPlay="1597466450" LastPlay="1597466450" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.461939" AltBpm="0.691519" Volume="0.754046" Key="Ebm" Flag="32768" />
+  <Poi Pos="10.213265" Type="beatgrid" />
+  <Poi Pos="1.703764" Type="automix" Point="realStart" />
+  <Poi Pos="117.282540" Type="automix" Point="realEnd" />
+  <Poi Pos="2.10" Type="automix" Point="fadeStart" />
+  <Poi Pos="117.282540" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Black Eyed Peas Ft El Alfa -No Mañana (INSTRUMENTAL OFICIAL).mp3" FileSize="5273319">
+  <Tags Remix="INSTRUMENTAL OFICIAL" Flag="1" />
+  <Infos SongLength="219.660771" FirstSeen="1597206753" FirstPlay="1597466559" LastPlay="1597466559" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.508481" AltBpm="0.762698" Volume="1.006333" Key="C#" Flag="32768" />
+  <Poi Pos="24.477732" Type="beatgrid" />
+  <Poi Pos="0.076916" Type="automix" Point="realStart" />
+  <Poi Pos="218.218231" Type="automix" Point="realEnd" />
+  <Poi Pos="0.60" Type="automix" Point="fadeStart" />
+  <Poi Pos="217.70" Type="automix" Point="fadeEnd" />
+  <Poi Pos="25.495510" Type="automix" Point="cutStart" />
+  <Poi Pos="217.713197" Type="automix" Point="cutEnd" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                               
+ <Song FilePath="C:\Users\summe\Downloads\Drake - Crew Love ft. The Weeknd (Acapella).mp3" FileSize="4803115">
+  <Tags Remix="Acapella" Flag="1" />
+  <Infos SongLength="200.063129" FirstSeen="1597206753" FirstPlay="1597207937" LastPlay="1597207937" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.749887" AltBpm="0.563265" Volume="0.754960" Key="Eb" Flag="32768" />
+  <Poi Pos="18.782766" Type="beatgrid" />
+  <Poi Pos="3.140499" Type="automix" Point="realStart" />
+  <Poi Pos="194.837188" Type="automix" Point="realEnd" />
+  <Poi Pos="3.350" Type="automix" Point="fadeStart" />
+  <Poi Pos="190.550" Type="automix" Point="fadeEnd" />
+  <Poi Name="Break 1" Pos="68.984308" Type="remix" />
+  <Poi Name="End Break 1" Pos="99.582404" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - I&apos;m Gonna Be (Acapella - HQ Vocals Only).mp3" FileSize="4443252">
+  <Tags Remix="Acapella - HQ Vocals Only" Flag="1" />
+  <Infos SongLength="185.063039" FirstSeen="1597206753" FirstPlay="1597466599" LastPlay="1597466599" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.509002" AltBpm="0.763560" Volume="1.128972" Key="F" Flag="32768" />
+  <Poi Pos="12.310022" Type="beatgrid" />
+  <Poi Pos="0.322177" Type="automix" Point="realStart" />
+  <Poi Pos="180.160726" Type="automix" Point="realEnd" />
+  <Poi Pos="0.350" Type="automix" Point="fadeStart" />
+  <Poi Pos="178.90" Type="automix" Point="fadeEnd" />
+  <Poi Name="Break 1" Pos="26.875646" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Instru Rap House Freestyle Lourd 2020.mp3" FileSize="5521586">
+  <Tags Flag="1" />
+  <Infos SongLength="229.993651" FirstSeen="1597206753" FirstPlay="1597639190" LastPlay="1597772935" PlayCount="2" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.468753" AltBpm="0.351565" Volume="0.865659" Key="Dm" Flag="32768" />
+  <Poi Pos="34.909660" Type="beatgrid" />
+  <Poi Pos="1.120363" Type="automix" Point="realStart" />
+  <Poi Pos="229.458141" Type="automix" Point="realEnd" />
+  <Poi Pos="8.70" Type="automix" Point="fadeStart" />
+  <Poi Pos="214.750" Type="automix" Point="fadeEnd" />
+  <Poi Pos="34.909751" Type="automix" Point="cutStart" />
+  <Poi Pos="213.972608" Type="automix" Point="cutEnd" />
+  <Poi Pos="34.909615" Type="automix" Point="tempoStart" />
+  <Poi Pos="196.632086" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="48.972336" Type="remix" />
+  <Poi Name="End Break 1" Pos="79.911474" Type="remix" />
+  <Poi Name="Break 2" Pos="108.972698" Type="remix" />
+  <Poi Name="End Break 2" Pos="139.918367" Type="remix" />
+  <Poi Name="Break 3" Pos="153.972245" Type="remix" />
+  <Poi Name="End Break 3" Pos="184.909932" Type="remix" />
+  <Poi Pos="5.207243" Num="1" Type="cue" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ <Song FilePath="C:\Users\summe\Downloads\Juice WRLD - 10 Feet (AcapellaVocals Only).mp3" FileSize="5108434">
+  <Tags Remix="AcapellaVocals Only" Flag="1" />
+  <Infos SongLength="212.787664" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.576893" AltBpm="0.865306" Volume="0.844892" Key="F#m" Flag="32768" />
+  <Poi Pos="13.959478" Type="beatgrid" />
+  <Poi Pos="0.117551" Type="automix" Point="realStart" />
+  <Poi Pos="212.368254" Type="automix" Point="realEnd" />
+  <Poi Pos="0.850" Type="automix" Point="fadeStart" />
+  <Poi Pos="211.30" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Juice WRLD - Conversations (Official Acapella - Studio Vocals).mp3" FileSize="4479614">
+  <Tags Remix="Official Acapella - Studio Vocals" Flag="1" />
+  <Infos SongLength="186.572336" FirstSeen="1597206753" FirstPlay="1597466760" LastPlay="1597466760" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.562585" AltBpm="0.739206" Volume="1.383129" Key="C#" Flag="32768" />
+  <Poi Pos="24.718935" Type="beatgrid" />
+  <Poi Pos="0.367166" Type="automix" Point="realStart" />
+  <Poi Pos="145.506395" Type="automix" Point="realEnd" />
+  <Poi Pos="0.550" Type="automix" Point="fadeStart" />
+  <Poi Pos="145.506395" Type="automix" Point="fadeEnd" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+ <Song FilePath="C:\Users\summe\Downloads\Juice WRLD - Fighting Demons (Official Acapella - Studio Vocals).mp3" FileSize="4922860">
+  <Tags Remix="Official Acapella - Studio Vocals" Flag="1" />
+  <Infos SongLength="205.055420" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.740431" AltBpm="0.552109" Volume="1.035899" Key="Am" Flag="32768" />
+  <Poi Pos="35.949841" Type="beatgrid" />
+  <Poi Pos="7.465215" Type="automix" Point="realStart" />
+  <Poi Pos="178.397460" Type="automix" Point="realEnd" />
+  <Poi Pos="24.550" Type="automix" Point="fadeStart" />
+  <Poi Pos="178.397460" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\timmy holiday ani.mp3" FileSize="2349276">
+  <Tags Flag="1" />
+  <Infos SongLength="97.825669" FirstSeen="1597206753" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.370374" AltBpm="0.555556" Volume="0.611886" Key="F#m" Flag="32768" />
+  <Poi Pos="11.918594" Type="beatgrid" />
+  <Poi Pos="0.065306" Type="automix" Point="realStart" />
+  <Poi Pos="96.088526" Type="automix" Point="realEnd" />
+  <Poi Pos="0.065306" Type="automix" Point="fadeStart" />
+  <Poi Pos="94.0" Type="automix" Point="fadeEnd" />
+  <Poi Pos="17.846712" Type="automix" Point="cutStart" />
+  <Poi Pos="88.954921" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\David Bowie - Space Oddity (Acapella - Studio LD Vocal).mp3" FileSize="5403095">
+  <Tags Remix="Acapella - Studio LD Vocal" Flag="1" />
+  <Infos SongLength="225.04780" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.742903" AltBpm="0.880136" Volume="1.039257" Key="G" Flag="32768" />
+  <Poi Pos="22.121088" Type="beatgrid" />
+  <Poi Pos="0.130612" Type="automix" Point="realStart" />
+  <Poi Pos="218.199365" Type="automix" Point="realEnd" />
+  <Poi Pos="0.90" Type="automix" Point="fadeStart" />
+  <Poi Pos="214.050" Type="automix" Point="fadeEnd" />
+  <Poi Name="Break 1" Pos="29.384853" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Alessia Cara - Here Acapella Studio Quality (BEST ONE).mp3" FileSize="4562997">
+  <Tags Remix="BEST ONE" Flag="1" />
+  <Infos SongLength="190.055329" FirstSeen="1597206753" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.989728" AltBpm="0.739614" Volume="1.045197" Key="Dm" Flag="32768" />
+  <Poi Pos="10.390567" Type="beatgrid" />
+  <Poi Pos="0.252517" Type="automix" Point="realStart" />
+  <Poi Pos="186.398186" Type="automix" Point="realEnd" />
+  <Poi Pos="0.550" Type="automix" Point="fadeStart" />
+  <Poi Pos="178.30" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Joji - Slow Dancing in the Dark Instrumental.mp3" FileSize="4994958">
+  <Tags Flag="1" />
+  <Infos SongLength="208.050794" FirstSeen="1597123912" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.674150" AltBpm="0.505601" Volume="0.672022" Key="Cm" Flag="32768" />
+  <Poi Pos="0.100884" Type="beatgrid" />
+  <Poi Pos="0.100136" Type="automix" Point="realStart" />
+  <Poi Pos="205.923265" Type="automix" Point="realEnd" />
+  <Poi Pos="0.100136" Type="automix" Point="fadeStart" />
+  <Poi Pos="205.0" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.108844" Type="automix" Point="cutStart" />
+  <Poi Pos="202.345215" Type="automix" Point="cutEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Kanye West - FML (Vocals Only - Acapella).mp3" FileSize="4803115">
+  <Tags Remix="Vocals Only - Acapella" Flag="1" />
+  <Infos SongLength="200.063129" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.960884" AltBpm="0.743424" Volume="0.8320" Key="Dm" Flag="32768" />
+  <Poi Pos="12.242131" Type="beatgrid" />
+  <Poi Pos="1.481723" Type="automix" Point="realStart" />
+  <Poi Pos="197.590204" Type="automix" Point="realEnd" />
+  <Poi Pos="3.60" Type="automix" Point="fadeStart" />
+  <Poi Pos="197.250" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Juice WRLD - Life&apos;s A Mess (Studio Acapella -Vocals Only) ft. Halsey.mp3" FileSize="5042605">
+  <Tags Remix="Studio Acapella -Vocals Only" Flag="1" />
+  <Infos SongLength="210.047710" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.839093" AltBpm="0.629297" Volume="0.506555" Key="C#" Flag="32768" />
+  <Poi Pos="9.930318" Type="beatgrid" />
+  <Poi Pos="2.937324" Type="automix" Point="realStart" />
+  <Poi Pos="188.338503" Type="automix" Point="realEnd" />
+  <Poi Pos="3.850" Type="automix" Point="fadeStart" />
+  <Poi Pos="187.050" Type="automix" Point="fadeEnd" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+ <Song FilePath="C:\Users\summe\Downloads\Lana Del Rey - Lucky Ones (Acapella - Vocals Only).mp3" FileSize="4803115">
+  <Tags Remix="Acapella - Vocals Only" Flag="1" />
+  <Infos SongLength="200.063129" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.899569" AltBpm="0.984195" Volume="0.959912" Key="Am" Flag="32768" />
+  <Poi Pos="50.956169" Type="beatgrid" />
+  <Poi Pos="0.490522" Type="automix" Point="realStart" />
+  <Poi Pos="193.182766" Type="automix" Point="realEnd" />
+  <Poi Pos="0.550" Type="automix" Point="fadeStart" />
+  <Poi Pos="192.70" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Future - 100 Shooters (Vocals Only - Acapella) ft. Meek Mill, Doe Boy.mp3" FileSize="5253257">
+  <Tags Remix="Vocals Only - Acapella" Flag="1" />
+  <Infos SongLength="218.824853" FirstSeen="1597206753" FirstPlay="1597772421" LastPlay="1597772421" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.662880" AltBpm="0.994354" Volume="0.792210" Key="C#m" Flag="32768" />
+  <Poi Pos="24.532154" Type="beatgrid" />
+  <Poi Pos="0.304762" Type="automix" Point="realStart" />
+  <Poi Pos="206.158367" Type="automix" Point="realEnd" />
+  <Poi Pos="2.70" Type="automix" Point="fadeStart" />
+  <Poi Pos="206.158367" Type="automix" Point="fadeEnd" />
+ </Song>                                                                                                                       
+ <Song FilePath="C:\Users\summe\Downloads\bethlehem.mp3" FileSize="1497266">
+  <Tags Flag="1" />
+  <Infos SongLength="62.322358" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.732290" AltBpm="0.926780" Volume="0.305417" Key="Gm" Flag="32768" />
+  <Poi Pos="-0.016712" Type="beatgrid" />
+  <Poi Pos="0.124807" Type="automix" Point="realStart" />
+  <Poi Pos="61.283265" Type="automix" Point="realEnd" />
+  <Poi Pos="0.150" Type="automix" Point="fadeStart" />
+  <Poi Pos="59.350" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Martin Garrix &amp; Justin Mylo - Burn Out (Studio Acapella).mp3" FileSize="3242664">
+  <Tags Remix="Studio Acapella" Flag="1" />
+  <Infos SongLength="135.047256" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.469433" AltBpm="0.818095" Volume="1.574264" Key="Em" Flag="32768" />
+  <Poi Pos="11.155828" Type="beatgrid" />
+  <Poi Pos="0.303311" Type="automix" Point="realStart" />
+  <Poi Pos="130.117370" Type="automix" Point="realEnd" />
+  <Poi Pos="4.450" Type="automix" Point="fadeStart" />
+  <Poi Pos="129.350" Type="automix" Point="fadeEnd" />
+  <Poi Name="End Break 1" Pos="70.114830" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Meduza, Becky Hill, Goodboys - Lose Control (Instrumental Version).mp3" FileSize="4048907">
+  <Tags Remix="Instrumental Version" Flag="1" />
+  <Infos SongLength="168.646531" FirstSeen="1597206753" FirstPlay="1597772838" LastPlay="1597772838" PlayCount="1" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.483855" AltBpm="0.362891" Volume="0.873389" Key="F" Flag="32768" />
+  <Poi Pos="39.048298" Type="beatgrid" />
+  <Poi Pos="0.329433" Type="automix" Point="realStart" />
+  <Poi Pos="164.162177" Type="automix" Point="realEnd" />
+  <Poi Pos="0.350" Type="automix" Point="fadeStart" />
+  <Poi Pos="162.850" Type="automix" Point="fadeEnd" />
+  <Poi Pos="39.509478" Type="automix" Point="cutStart" />
+  <Poi Pos="158.560363" Type="automix" Point="cutEnd" />
+  <Poi Pos="39.523401" Type="automix" Point="tempoStart" />
+  <Poi Pos="142.590045" Type="automix" Point="tempoEnd" />
+  <Poi Name="Break 1" Pos="83.077370" Type="remix" />
+  <Poi Name="End Break 1" Pos="131.928526" Type="remix" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - Die For Me ft. Future, Halsey (ACAPELLA - HQ Vocals Only).mp3" FileSize="6003075">
+  <Tags Remix="ACAPELLA - HQ Vocals Only" Flag="1" />
+  <Infos SongLength="250.055692" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.827460" AltBpm="0.620680" Volume="1.078513" Key="Dm" Flag="32768" />
+  <Poi Pos="23.332472" Type="beatgrid" />
+  <Poi Pos="0.303311" Type="automix" Point="realStart" />
+  <Poi Pos="245.716463" Type="automix" Point="realEnd" />
+  <Poi Pos="10.30" Type="automix" Point="fadeStart" />
+  <Poi Pos="239.40" Type="automix" Point="fadeEnd" />
+  <Poi Name="End Break 1" Pos="166.265760" Type="remix" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\free-sad-slow-lo-fi-boom-bap-drum-loop.mp3" FileSize="4096504">
+  <Tags Author="JKD STAY FREE" Title="Free Sad Slow Lo Fi Boom Bap Drum Loop" Year="20190402" Flag="1" />
+  <Infos SongLength="182.956542" FirstSeen="1596991789" FirstPlay="1597466814" LastPlay="1597466814" PlayCount="1" Bitrate="179" Cover="34" />
+  <Scan Version="801" Bpm="0.571429" AltBpm="0.857143" Volume="0.576257" Key="A" Flag="32768" />
+  <Poi Pos="0.072494" Type="beatgrid" />
+  <Poi Pos="0.073333" Type="automix" Point="realStart" />
+  <Poi Pos="164.578667" Type="automix" Point="realEnd" />
+  <Poi Pos="0.073333" Type="automix" Point="fadeStart" />
+  <Poi Pos="163.50" Type="automix" Point="fadeEnd" />
+  <Poi Pos="0.075465" Type="automix" Point="cutStart" />
+  <Poi Pos="161.146485" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="71.427483" Type="remix" />
+  <Poi Name="End Break 1" Pos="91.501134" Type="remix" />
+ </Song>                                                                                                                                                                                                                                                                                                                                                                                                  
+ <Song FilePath="C:\Users\summe\Downloads\Boards of Canada - Everything You Do is a Balloon.mp3" FileSize="10091343">
+  <Tags Flag="1" />
+  <Infos SongLength="420.397279" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.659116" AltBpm="0.988685" Volume="0.770907" Key="Am" Flag="32768" />
+  <Poi Pos="102.898682" Type="beatgrid" />
+  <Poi Pos="1.565896" Type="automix" Point="realStart" />
+  <Poi Pos="417.870658" Type="automix" Point="realEnd" />
+  <Poi Pos="1.565896" Type="automix" Point="fadeStart" />
+  <Poi Pos="406.750" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\Post Malone - Psycho (Acapella - Filtered Vocals).mp3" FileSize="4800607">
+  <Tags Remix="Acapella - Filtered Vocals" Flag="1" />
+  <Infos SongLength="199.947029" FirstSeen="1597206753" Bitrate="192" Cover="16386" />
+  <Scan Version="801" Bpm="0.642857" AltBpm="0.852971" Volume="0.853851" Key="A#" Flag="32768" />
+  <Poi Pos="12.774489" Type="beatgrid" />
+  <Poi Pos="0.551474" Type="automix" Point="realStart" />
+  <Poi Pos="196.178141" Type="automix" Point="realEnd" />
+  <Poi Pos="0.60" Type="automix" Point="fadeStart" />
+  <Poi Pos="193.60" Type="automix" Point="fadeEnd" />
+ </Song>
+ <Song FilePath="C:\Users\summe\Downloads\(FREE) XXXTENTACION X JOEY BADASS TYPE BEAT - NERVES.mp3" FileSize="3587480">
+  <Tags Flag="1" />
+  <Infos SongLength="149.397188" FirstSeen="1597206753" FirstPlay="1597772402" LastPlay="1597772402" PlayCount="1" Bitrate="192" Cover="34" />
+  <Scan Version="801" Bpm="0.666667" AltBpm="0.50" Volume="1.008123" Key="Ebm" Flag="32768" />
+  <Poi Pos="21.368526" Type="beatgrid" />
+  <Poi Pos="0.031927" Type="automix" Point="realStart" />
+  <Poi Pos="145.367075" Type="automix" Point="realEnd" />
+  <Poi Pos="21.350" Type="automix" Point="fadeStart" />
+  <Poi Pos="145.367075" Type="automix" Point="fadeEnd" />
+  <Poi Pos="21.360181" Type="automix" Point="cutStart" />
+  <Poi Pos="127.034195" Type="automix" Point="cutEnd" />
+  <Poi Name="Break 1" Pos="63.034921" Type="remix" />
+  <Poi Name="End Break 1" Pos="85.367438" Type="remix" />
+ </Song>
+</VirtualDJ_Database>

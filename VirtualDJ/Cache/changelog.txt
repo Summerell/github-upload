@@ -1,0 +1,7 @@
+VDJ:-Rane Twelve MKII support
+-Rane Seventy Two MKII support
+-Echo Out effect added
+-Fix waveform refresh issue while stems loading on ddj-1000
+-Fix SandBox volume on DDJ-RZX
+-Improve video streaming on slower network connections
+-Fix import iTunes ratings on macOS 10.15
